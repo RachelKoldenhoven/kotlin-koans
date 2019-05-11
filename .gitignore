@@ -1,7 +1,7 @@
 out
 
 # IDEA
-.idea
+.idea/
 *.iml
 local.properties
 
